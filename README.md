@@ -1,16 +1,11 @@
-# xylophone_app
+# Flutter Xylophone App 🎵
 
-A xylophone app for a mobile development workshop.
+A simple Xylophone app made with flutter for a mobile development workshop led by Google Developer Groups on Campus - Holy Angel University.
 
-## Getting Started
+The participants will replicate this application in a code-along lecture where they must demonstrate their understanding of functions and the different Flutter Widgets such as Rows, Columns, Expanded, etc.
 
-This project is a starting point for a Flutter application.
+<img width="150" src="https://github.com/user-attachments/assets/ae9a4037-0714-47fd-96f9-1835f37745da">
 
-A few resources to get you started if this is your first Flutter project:
+The particpants will also be introduced to the [audioplayers](https://pub.dev/packages/audioplayers) Flutter package from [pub.dev](pub.dev) and how it can be used to play audio files.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This was a challenge that I took when I was first studying Flutter from a Udemy course prepared by [AppBrewery](https://appbrewery.com/) and led by [Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/?srsltid=AfmBOoovfgC-L04PYv8VMl4nLfUwtTWxouMhmZM6bq-XJeawxFKFMoUh) titled [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/?couponCode=LETSLEARNNOW).
